@@ -2,20 +2,19 @@
 	fill="none"
 	stroke-linecap="round"
 	stroke-linejoin="round"
-	stroke-width="4"
-	viewBox="0 0 72 14"
+	viewBox="0 0 72 16"
 	xmlns="http://www.w3.org/2000/svg"
 >
-	<path
-		d="m2.5 2.5v4a4 4 0 0 0 4 4h4v-1m5-4v1a4 4 0 0 0 8 0v-1v1a4 4 0 0 0-8 0m14-4v4a4 4 0 0 0 8 0v-4m5 7v1m13-9v1h-4a4 4 0 0 0 -4 4v-1v1a4 4 0 0 0 4 4h4v-1m6-8v1a4 4 0 0 1 0 8v-1m8-8v1a4 4 0 0 0 0 8v-1"
-		id="shadow"
-	/>
-	<use href="#shadow" stroke="#123" stroke-width="5" y="1" />
-	<use href="#shadow" stroke="#123" y="1" />
 	<path
 		id="top"
 		d="m2.5 2.5v4a4 4 0 0 0 4 4h4m5-4a4 4 0 0 0 8 0 4 4 0 0 0-8 0m14-4v4a4 4 0 0 0 8 0v-4m5 8h0m13-8h-4a4 4 0 0 0 0 8h4m6-8a4 4 0 0 1 0 8m8-8a4 4 0 0 0 0 8"
 	/>
-	<use href="#top" stroke="#123" stroke-width="5" />
-	<use href="#top" stroke="#E06" />
+	<g stroke="#306" stroke-width="5">
+		<path
+			id="shadow"
+			d="m2.5 3.5v6a4 4 0 0 0 4 4h4v-3m5-4v3a4 4 0 0 0 8 0v-3h-3v3m9-4v4a4 4 0 0 0 8 0v-4m5 5v3m13-11v3h-4a4 4 0 0 0 -4 4v-3v3a4 4 0 0 0 4 4h4v-3m6-8v3a4 4 0 0 1 0 8v-3m8-8v3a4 4 0 0 0 0 8v-3"
+		/>
+		<use href="#top" />
+	</g>
+	<use href="#top" stroke="#2AE" stroke-width="4" />
 </svg>
