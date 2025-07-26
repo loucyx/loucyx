@@ -1,4 +1,4 @@
-# <a href="https://lou.cx"><img src="./WitchLogo.svg" alt="Lou Cyx's logo" title="Lou Cyx" style="display: block;margin: 0 auto;max-width: 522px;min-width: 87px;width: 50%;" /></a>
+# <a href="https://lou.cx"><img src="./logo.svg" alt="Lou Cyx's logo" title="Lou Cyx" style="display: block;margin: 0 auto;width: 100%;" /></a>
 
 I'm Lou, a [web developer][projects], [hobbyist DJ][deejaying] and [casual gamer][gog] based in [Chicago, IL][chicago]. You can learn more about me in [my website][about].
 
