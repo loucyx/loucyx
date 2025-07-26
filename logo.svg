@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 24">
+  <path fill="#2d2a32" d="M0 0h106v24H0" />
+  <path
+    fill="none"
+    stroke="#ede6f2"
+    stroke-linecap="square"
+    d="M39.5 8.5v3a4 4 0 0 0 4 4h4m4.5-7a3.5 3.5 0 0 0 0 7h1a3.5 3.5 0 0 0 0-7h-1Zm6.5 0v3a4 4 0 0 0 4 4s0 0 0 0a4 4 0 0 0 4-4v-3"
+  />
+  <path
+    fill="#f7c7b7"
+    d="M50.5 12s1.2-.2 1.5-.5c.3-.3.5-1.5.5-1.5s.2 1.2.5 1.5c.3.3 1.5.5 1.5.5s-1.2.2-1.5.5c-.3.3-.5 1.5-.5 1.5s-.2-1.2-.5-1.5c-.3-.3-1.5-.5-1.5-.5"
+  />
+  <style>
+    @keyframes zoom {
+      to {
+        transform: scale(1.25);
+      }
+    }
+    path:nth-child(3) {
+      animation: 0.5s ease-in-out zoom forwards infinite alternate;
+      transform-origin: 50%;
+    }
+  </style>
+</svg>
